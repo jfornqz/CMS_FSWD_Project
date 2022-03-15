@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/CMS_FSWD_Project/static/css/main.05d78f98.css",
+    "main.js": "/CMS_FSWD_Project/static/js/main.fc71ceab.js",
+    "static/js/787.f899eab6.chunk.js": "/CMS_FSWD_Project/static/js/787.f899eab6.chunk.js",
+    "index.html": "/CMS_FSWD_Project/index.html",
+    "main.05d78f98.css.map": "/CMS_FSWD_Project/static/css/main.05d78f98.css.map",
+    "main.fc71ceab.js.map": "/CMS_FSWD_Project/static/js/main.fc71ceab.js.map",
+    "787.f899eab6.chunk.js.map": "/CMS_FSWD_Project/static/js/787.f899eab6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.05d78f98.css",
+    "static/js/main.fc71ceab.js"
+  ]
+}
