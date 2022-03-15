@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="460" height="132" viewBox="0 0 460 132">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 66.667px;
+        fill: #fff;
+        font-family: Kanit;
+        font-weight: 700;
+      }
+    </style>
+  </defs>
+  <text id="CMS_System" data-name="CMS System" class="cls-1" x="47" y="95">CMS System</text>
+</svg>
