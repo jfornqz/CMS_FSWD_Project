@@ -32,7 +32,7 @@ const Navbar = () => {
             <NavLink to='/tag' className='mr-8'>
             <div className="dropdown dropdown-hover">
                 <label tabIndex="0" className="m-1 text-xl">Tags</label>
-                    <ul tabIndex="0" className="dropdown-content menu p-2 shadow bg-base-100 rounded-box w-52 mt-1.5">
+                    <ul tabIndex="0" className="dropdown-content menu p-2 shadow bg-base-100 rounded-box w-52 ">
                         <li><NavLink to='/tags/brooklyn'>Brooklyn</NavLink></li>
                         <li><NavLink to='/tags/fashion' >Fashion</NavLink></li>
                         <li><NavLink to='/tags/women-3' >Women-3</NavLink></li>
